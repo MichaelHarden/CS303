@@ -1,0 +1,53 @@
+Chicago 09:00:00
+
+Phoenix 09:00:03
+
+Houston 09:00:13
+
+Chicago 09:00:59
+
+Houston 09:01:10
+
+Chicago 09:03:13
+
+Seattle 09:10:11
+
+New York 09:10:24
+
+Seattle 09:10:25
+
+Phoenix 09:14:25
+
+Chicago 09:19:32
+
+Chicago 09:19:46
+
+Chicago 09:21:05
+
+Los Angeles 09:22:01
+
+Seattle 09:22:43
+
+Seattle 09:22:54
+
+Chicago 09:25:52
+
+Chicago 09:36:14
+
+Phoenix 09:37:44
+
+Birmingham 09:38:02
+
+Nashville 09:38:19
+
+Cincinnati 09:38:45
+
+Port Saint Joe 09:41:23
+
+Birmingham 09:41:25
+
+Birmingham 09:41:59
+
+New York 09:42:00
+
+Port Saint Joe 09:42:03
